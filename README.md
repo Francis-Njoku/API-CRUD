@@ -77,7 +77,7 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 
 ## Requirement 1
 
-Current the external api [Ice And Fire API](https://ibb.co/vXQLjjf) has some technical issues so I explored another
+Consume external api from [Ice And Fire API](https://anapioficeandfire.com/Documentation#books)
 
  ##URL
  <http://localhost:8080/api/external-books?name=:nameOfABook>
@@ -86,7 +86,7 @@ Current the external api [Ice And Fire API](https://ibb.co/vXQLjjf) has some tec
 <GET>
 
 ## URL Params
-<None>
+<name>
 
 
 ## Test 2
